@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Tugas Pertemuan4</string>
+=======
+	<string>Pertemuan3 Test</string>
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>tugas_pertemuan4</string>
+=======
+	<string>pertemuan3_test</string>
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

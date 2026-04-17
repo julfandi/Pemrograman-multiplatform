@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "tugas_pertemuan4" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "tugas_pertemuan4" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "tugas_pertemuan4.exe" "\0"
             VALUE "ProductName", "tugas_pertemuan4" "\0"
+=======
+            VALUE "FileDescription", "pertemuan3_test" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "pertemuan3_test" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "pertemuan3_test.exe" "\0"
+            VALUE "ProductName", "pertemuan3_test" "\0"
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

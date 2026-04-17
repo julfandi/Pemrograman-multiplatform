@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.tugas_pertemuan4"
+=======
+    namespace = "com.example.pertemuan3_test"
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.tugas_pertemuan4"
+=======
+        applicationId = "com.example.pertemuan3_test"
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

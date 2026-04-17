@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "tugas_pertemuan4",
     "short_name": "tugas_pertemuan4",
+=======
+    "name": "pertemuan3_test",
+    "short_name": "pertemuan3_test",
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="tugas_pertemuan4"
+=======
+        android:label="pertemuan3_test"
+>>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
