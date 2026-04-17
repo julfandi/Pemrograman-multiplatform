@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # tugas_pertemuan4
 
 A new Flutter project.
@@ -47,4 +47,4 @@ project flutter-dart semester 4
 
 ## baru Nyoba
 
->>>>>>> 677e6419e226ebf8a5d1570681d73dd6e4affb89
+
